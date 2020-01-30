@@ -1,20 +1,20 @@
 {
-  "name": "bip21",
+  "name": "bip21grs",
   "version": "2.0.2",
-  "description": "A BIP21 compatible URL encoding utility library",
-  "author": "Daniel Cousens",
+  "description": "A Groestlcoin BIP21 compatible URL encoding utility library",
+  "author": "Hash Engineering Solutions",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bip21.git"
+    "url": "https://github.com/Groestlcoin/bip21grs.git"
   },
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bip21/issues"
+    "url": "https://github.com/Groestlcoin/bip21grs/issues"
   },
-  "homepage": "https://github.com/bitcoinjs/bip21",
+  "homepage": "https://github.com/Groestlcoin/bip21grs",
   "keywords": [
     "bip21",
-    "bitcoin"
+    "groestlcoin"
   ],
   "main": "./index.js",
   "scripts": {
